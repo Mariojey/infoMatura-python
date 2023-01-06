@@ -1,5 +1,5 @@
 file = open('sygnaly.txt', 'r')
-result = open('w.txt', 'w')
+result = open('wyniki4.txt', 'w')
 text = file.readlines()
 
 for i in text:
@@ -13,5 +13,6 @@ for i in text:
             max_value = ascii_code
     if max_value - min_value <= 10:
         print(i)
+        result.write(i + '\n')
 
 file.close()
