@@ -1,6 +1,7 @@
 file = open('liczby.txt', 'r')
 result = open('wyniki4.txt', 'w')
 text = file.readlines()
+file.close()
 
 answ_text = '4.1 '
 answ = 0
@@ -18,5 +19,5 @@ for i in text:
 print(answ)
 answ_text += str(answ)
 #result.write(answ_text)
-file.close()
+
 result.close()
