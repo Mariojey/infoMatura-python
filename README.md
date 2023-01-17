@@ -74,6 +74,7 @@ Wyniki: **[Kliknij](./WEGA2018/wyniki4.txt)**
 | --------------|------------------|
 |4.1 |**[Kliknij](./BINARNY2015/main.py)**|
 |4.2 |**[Kliknij](./BINARNY2015/main2.py)**|
+|4.3|**[Kliknij](./BINARNY2015/main3.py)**|
 
 Wyniki: **[Kliknij](./BINARNY2015/wyniki4.txt)**
 
