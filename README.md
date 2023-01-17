@@ -40,9 +40,9 @@ answer_file.close()
 
 >**Materiały do zadania:**
 
-> **[Arkusz Egzaminacyjny](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2015/formula_od_2015/MIN-R2_1P-152.pdf)** 
+> **[Arkusz Egzaminacyjny](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2018/formula_od_2015/informatyka/MIN-R2_1P-182.pdf)** 
 
-> [Zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2015/formula_od_2015/odpowiedzi/MIN-R1-N.pdf)
+> [Zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2018/formula_od_2015/Zasady_oceniania/MIN-R2_1P-182_zasady_oceniania.pdf)
 
 <!-- Tasks -->
 
@@ -55,3 +55,25 @@ answer_file.close()
 Wyniki: **[Kliknij](./WEGA2018/wyniki4.txt)**
 
 ---
+
+## Zadanie - BINARNIE
+### Egzamin Maturalny z Informatyki rok 2015
+
+<!-- LINK -->
+
+
+>**Materiały do zadania:**
+
+> **[Arkusz Egzaminacyjny](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2015/formula_od_2015/MIN-R2_1P-152.pdf)** 
+
+> [Zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2015/formula_od_2015/odpowiedzi/MIN-R1-N.pdf)
+
+<!-- Tasks -->
+
+| Numer zadania | Plik z programem |
+| --------------|------------------|
+|4.1 |**[Kliknij](./BINARNY2015/main.py)**|
+|4.2 |**[Kliknij](./BINARNY2015/main2.py)**|
+
+Wyniki: **[Kliknij](./BINARNY2015/wyniki4.txt)**
+
