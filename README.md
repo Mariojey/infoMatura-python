@@ -78,3 +78,26 @@ Wyniki: **[Kliknij](./WEGA2018/wyniki4.txt)**
 
 Wyniki: **[Kliknij](./BINARNY2015/wyniki4.txt)**
 
+---
+
+## Zadanie - SZYFR CEZARA
+### Egzamin Maturalny z Informatyki rok 2016
+
+<!-- LINK -->
+
+
+>**Materiały do zadania:**
+
+> **[Arkusz Egzaminacyjny](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2016/formula_od_2015/MIN-R2_1P-162.pdf)** 
+
+> [Zasady oceniania](https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2016/formula_od_2015/zasady_oceniania/MIN-R1-N.pdf)
+
+<!-- Tasks -->
+
+| Numer zadania | Plik z programem |
+| --------------|------------------|
+|6.1 |**[Kliknij](./CEZAR2016/main.py)**|
+
+
+Wyniki: **[Kliknij](./CEZAR2016/wyniki_6_1.txt)**
+
