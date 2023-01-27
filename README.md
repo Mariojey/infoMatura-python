@@ -98,9 +98,13 @@ Wyniki: **[Kliknij](./BINARNY2015/wyniki4.txt)**
 | --------------|------------------|
 |6.1 |**[Kliknij](./CEZAR2016/main.py)**|
 |6.2 |**[Kliknij](./CEZAR2016/main2.py)**|
+|6.3 |**[Kliknij](./CEZAR2016/main3.py)**|
 
 |Numer zadania |Plik z wynikami |
 |--------------|----------------|
 |6.1 |**[Wyniki](./CEZAR2016/wyniki_6_1.txt)**|
 |6.2 |**[Wyniki](./CEZAR2016/wyniki_6_2.txt)**|
+|6.3 |**[Wyniki](./CEZAR2016/wyniki_6_3.txt)**|
+
+---
 
