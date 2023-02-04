@@ -108,3 +108,24 @@ Wyniki: **[Kliknij](./BINARNY2015/wyniki4.txt)**
 
 ---
 
+## Zadanie - SYSTEMY LICZBOWE
+### Egzamin maturalny z informatyki - czerwiec 2016
+
+
+>**Materiały do zadań**
+
+>**[Arkusz Egzaminacyjny](https://arkusze.pl/maturalne/informatyka-2016-czerwiec-matura-rozszerzona-2.pdf)**
+
+>[Zasady oceniania](https://arkusze.pl/maturalne/informatyka-2016-czerwiec-matura-rozszerzona-odpowiedzi.pdf)
+
+<!-- Tasks -->
+| Numer zadania | Plik z programem |
+| --------------|------------------|
+|6.1 |**[Kliknij](./SYSTEMY2016/main.py)**|
+
+
+|Numer zadania |Plik z wynikami |
+|--------------|----------------|
+|6.1 |**[Wyniki](./SYSTEMY2016/wyniki_6_1.txt)**|
+
+
