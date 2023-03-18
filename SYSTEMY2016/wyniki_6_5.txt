@@ -1,0 +1,4 @@
+347931225 maksymalna - dziesietnie
+8066218209 maksymalna_binarnie
+16 minimalna dziesietnie
+100002 minialna binarnie
