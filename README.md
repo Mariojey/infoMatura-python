@@ -122,11 +122,18 @@ Wyniki: **[Kliknij](./BINARNY2015/wyniki4.txt)**
 | Numer zadania | Plik z programem |
 | --------------|------------------|
 |6.1 |**[Kliknij](./SYSTEMY2016/main.py)**|
-|6.2 |**[Kliknij](./SYSTEMY2016/main2.py)**
+|6.2 |**[Kliknij](./SYSTEMY2016/main2.py)**|
+|6.3 |**[Kliknij](./SYSTEMY2016/main3.py)**|
+|6.4 |**[Kliknij](./SYSTEMY2016/main4.py)**|
+|6.5 |**[Kliknij](./SYSTEMY2016/main5.py)**|
 
 
 |Numer zadania |Plik z wynikami |
 |--------------|----------------|
 |6.1 |**[Wyniki](./SYSTEMY2016/wyniki_6_1.txt)**|
-|6.2 |**[Wyniki](./SYSTEMY2016/wyniki_6_2.txt)**
+|6.2 |**[Wyniki](./SYSTEMY2016/wyniki_6_2.txt)**|
+|6.3 |**[Wyniki](./SYSTEMY2016/wyniki_6_3.txt)**|
+|6.4 |**[Wyniki](./SYSTEMY2016/wyniki_6_4.txt)**|
+|6.5 |**[Wyniki](./SYSTEMY2016/wyniki_6_5.txt)**|
+
 
