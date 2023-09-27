@@ -136,4 +136,18 @@ Wyniki: **[Kliknij](./BINARNY2015/wyniki4.txt)**
 |6.4 |**[Wyniki](./SYSTEMY2016/wyniki_6_4.txt)**|
 |6.5 |**[Wyniki](./SYSTEMY2016/wyniki_6_5.txt)**|
 
+---
+
+## Zadanie - Ćwiartkowe zerowanie
+### Matura z Informatyki Zbiór Zadań - Przemysław Głowacz, Wlademar Walczak, Wyd. Helion
+
+<!-- Tasks -->
+| Numer zadania | Plik z programem |
+| --------------|------------------|
+|1.1 |**[Kliknij](./HELION/Zestaw%201/Zadanie%201.1/main.py)**|
+|1.2 |**[Kliknij](./HELION/Zestaw%201/Zadanie%201.2/main.py)**|
+|1.3 |**[Kliknij](./HELION/Zestaw%201/Zadanie%201.3/main.py)**|
+
+---
+
 
