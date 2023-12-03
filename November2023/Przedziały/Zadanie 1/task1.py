@@ -1,6 +1,6 @@
-file = open("przedzialy.txt", "r")
+file = open("przedzialy2.txt", "r")
 text = file.readlines()
-row_num = 0
+row_num = [1]
 count = 0
 line_index = 0
 for line in text:
@@ -16,7 +16,10 @@ for line in text:
                     count_of_non_divided_by_two += 1
             if count_of_non_divided_by_two > count:
                 count = count_of_non_divided_by_two
-                row_num = line_index
+                row_num = [line_index]
+            if count_of_non_divided_by_two == count:
+                count = count_of_non_divided_by_two
+                row_num.append(line_index)
         else:
             from_char = divs[0][1:]
             to_char = divs[1][:-1]
@@ -26,7 +29,10 @@ for line in text:
                     count_of_non_divided_by_two += 1
             if count_of_non_divided_by_two > count:
                 count = count_of_non_divided_by_two
-                row_num = line_index
+                row_num = [line_index]
+            if count_of_non_divided_by_two == count:
+                count = count_of_non_divided_by_two
+                row_num.append(line_index)
     elif divs[1][len(divs[1])-1] == '>':
         from_char = divs[0][1:]
         to_char = divs[1][:-1]
@@ -36,7 +42,10 @@ for line in text:
                 count_of_non_divided_by_two += 1
         if count_of_non_divided_by_two > count:
             count = count_of_non_divided_by_two
-            row_num = line_index
+            row_num = [line_index]
+        if count_of_non_divided_by_two == count:
+            count = count_of_non_divided_by_two
+            row_num.append(line_index)
     elif divs[1][len(divs[1])-1] == ')':
         from_char = divs[0][1:]
         to_char = divs[1][:-1]
@@ -46,7 +55,10 @@ for line in text:
                 count_of_non_divided_by_two += 1
         if count_of_non_divided_by_two > count:
             count = count_of_non_divided_by_two
-            row_num = line_index
+            row_num = [line_index]
+        if count_of_non_divided_by_two == count:
+            count = count_of_non_divided_by_two
+            row_num.append(line_index)
     line_index += 1
 print(row_num)
 print(count)
